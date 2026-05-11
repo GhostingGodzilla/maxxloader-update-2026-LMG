@@ -82,10 +82,10 @@ Modular hard-case loader designed to mate with EMF100 markers. Includes bottom/f
 ---
 
 ### Tolerances and fit guidance
-- **M4 clearance hole:** 4.5 mm (±0.2 mm)
-- **Nut pocket:** nut width −0.1 to −0.2 mm for press fit
-- **Alignment pin hole:** pin dia +0.2 mm
-- **Hose port ID:** 25 mm (verify with test print)
+- **M4 clearance hole:** 4.5 mm (±0.2 mm)  
+- **Nut pocket:** nut width −0.1 to −0.2 mm for press fit  
+- **Alignment pin hole:** pin dia +0.2 mm  
+- **Hose port ID:** 25 mm (verify with test print)  
 - **Paddle wheel shaft hole:** 6.0–6.2 mm (adjust for shaft fit)
 
 ---
