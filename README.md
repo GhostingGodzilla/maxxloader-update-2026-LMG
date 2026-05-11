@@ -67,6 +67,34 @@ Modular hard-case loader designed to mate with EMF100 markers. Includes bottom/f
 
 ---
 
+### Bill of Materials (example)
+| Item | Qty | Example supplier / SKU | Notes |
+|---|---:|---|---|
+| M4 socket head cap screw assorted (6–25 mm) | 50 | Amazon / assorted kit | Metric M4, 0.7 mm pitch |
+| M4 hex nut (stainless) | 50 | McMaster‑Carr | or T‑nuts for panels |
+| M4 washer | 50 | Amazon | flat washers |
+| 6 mm dowel pins | 6 | McMaster‑Carr | alignment pins |
+| 12V geared DC motor (60–100 RPM, 6 mm shaft) | 1 | Pololu / Amazon | check torque and stall current |
+| 3S LiPo 2200 mAh battery | 1 | Hobby shop | use proper charger and safety |
+| 25 mm ID silicone hose | 0.5 m | Amazon / McMaster | confirm ID vs OD |
+| PETG filament 1.75 mm | 1 kg | MatterHackers / Amazon | color optional |
+
+---
+
+### Tolerances and fit guidance
+- **M4 clearance hole:** 4.5 mm (±0.2 mm)
+- **Nut pocket:** nut width −0.1 to −0.2 mm for press fit
+- **Alignment pin hole:** pin dia +0.2 mm
+- **Hose port ID:** 25 mm (verify with test print)
+- **Paddle wheel shaft hole:** 6.0–6.2 mm (adjust for shaft fit)
+
+---
+
+### Safety note
+This project uses a 3S LiPo battery. Follow standard LiPo safety: use a proper LiPo charger, never leave charging batteries unattended, store in a fireproof container, and verify connector polarity before connecting. The author is not responsible for misuse.
+
+---
+
 ## License
 This project is released under **CC BY-NC-SA**. See the `LICENSE` file for full text.
 
